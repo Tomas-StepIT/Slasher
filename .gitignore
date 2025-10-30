@@ -1,3 +1,9 @@
+ProfilePic.png
+# Soubory mezipaměti Pythonu
+*.pyc
+# Logy a databáze
+*.db 
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
